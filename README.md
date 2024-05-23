@@ -1,6 +1,4 @@
 
-![poster](.github/cover.png)
-
 ## 🤘 Sobre
 
 Projeto Petlov para o treinamento de automação de testes com Java e JUnit 5
@@ -17,5 +15,3 @@ Projeto Petlov para o treinamento de automação de testes com Java e JUnit 5
 mvn test
 ```
 
-<hr>
-Curso disponível em https://rocketskills.com.br
